@@ -39,7 +39,7 @@
 			<id>releases</id>
 			<name>Releases</name>
        
-           <url>http://184.73.10.52:8081/nexus/content/repositories/ </url>
+           <url>http://100.27.24.71:8081/repository/maven-central/</url>
     
        <snapshots><enabled>true</enabled></snapshots>
     
@@ -47,7 +47,7 @@
     <snapshotRepository>
 			<id>snapshots</id>
 			<name>Snapshots</name>
-      <url>http://184.73.10.52:8081/nexus/content/repositories/snapshots </url>
+      <url>http://100.27.24.71:8081/nexus/content/repositories/snapshots </url>
 		</snapshotRepository>
     </distributionManagement>
 </project>
